@@ -31,14 +31,14 @@ const details = {
 
 const vehicleImages = {
   "NGX 4853": "https://alpinemotors.com.ph/wp-content/uploads/2021/05/L300.png",
-  "NGX 4856": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
+  "NGX 4856": "https://alpinemotors.com.ph/wp-content/uploads/2021/05/L300.png",
   "NFZ 2848": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "CBP 5511": "https://carused.jp/images/elf/flatbody.jpg",
   "CBP 1336": "https://carused.jp/images/elf/flatbody.jpg",
-  "ZSG 105": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
+  "ZSG 105": "https://alpinemotors.com.ph/wp-content/uploads/2021/05/L300.png",
   "UOF 225": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "NQX 657": "https://www.carmag.co.za/wp-content/uploads/2023/10/Isuzu-D-Max-edit-2-800x480.png",
-  "WQT 225": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
+  "WQT 225": "https://alpinemotors.com.ph/wp-content/uploads/2021/05/L300.png",
   "MAM 7806": "https://carused.jp/images/elf/flatbody.jpg",
   "NBO 6586": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "EMPTY": "https://media.licdn.com/dms/image/D560BAQGwtTvFVA5e_Q/company-logo_200_200/0/1697595933193?e=2147483647&v=beta&t=kOA11OZMk-StnPS_3-MpbicPzWtUTavPSMqPgvYGEuc"
@@ -279,6 +279,7 @@ function submitReport(e){e.preventDefault();addHistory("Report",{file:e.target.r
 
 // ------------------- INIT -------------------
 renderList();
+
 
 
 
