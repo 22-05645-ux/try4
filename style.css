@@ -2,8 +2,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Roboto, sans-serif;
-  background: #f9fafb;
-  color: #111827;
+  background: green;
+  color: green;
   font-size: 16px;
   line-height: 1.6;
 }
@@ -103,6 +103,7 @@ body {
   position: fixed;
   bottom: 0; left: 0; right: 0;
 }
+
 
 
 
