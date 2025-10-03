@@ -96,12 +96,13 @@ body {
 /* ------------------- FOOTER ------------------- */
 .footer {
   background: #064e3b;
-  color: white;
-  text-align: left;
+  color: black;
+  text-align: indent;
   padding: 10px;
-  font-size: 15px;
+  font-size: 12px;
   position: fixed;
   bottom: 0; left: 0; right: 0;
 }
+
 
 
