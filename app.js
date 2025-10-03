@@ -30,7 +30,7 @@ const details = {
 };
 
 const vehicleImages = {
-  "NGX 4853": "https://autonetmagz.com/wp-content/uploads/2019/04/Mitsubishi-L300-Filipina-728x485.jpg",
+  "NGX 4853": "https://alpinemotors.com.ph/wp-content/uploads/2021/05/L300.png",
   "NGX 4856": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
   "NFZ 2848": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "CBP 5511": "https://carused.jp/images/elf/flatbody.jpg",
@@ -279,4 +279,5 @@ function submitReport(e){e.preventDefault();addHistory("Report",{file:e.target.r
 
 // ------------------- INIT -------------------
 renderList();
+
 
