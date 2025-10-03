@@ -97,12 +97,13 @@ body {
 .footer {
   background: #064e3b;
   color: black;
-  text-align: indent;
-  padding: 10px;
-  font-size: 12px;
+  text-align: center;
+  padding: 12px;
+  font-size: 15px;
   position: fixed;
   bottom: 0; left: 0; right: 0;
 }
+
 
 
 
