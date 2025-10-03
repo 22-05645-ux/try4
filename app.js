@@ -35,7 +35,7 @@ const vehicleImages = {
   "NFZ 2848": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "CBP 5511": "https://carused.jp/images/elf/flatbody.jpg",
   "CBP 1336": "https://carused.jp/images/elf/flatbody.jpg",
-  "ZSG 105": "https://trucksite.com/photos/isuzu-npr-box-truck.jpg",
+  "ZSG 105": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
   "UOF 225": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "NQX 657": "https://www.carmag.co.za/wp-content/uploads/2023/10/Isuzu-D-Max-edit-2-800x480.png",
   "WQT 225": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
@@ -92,4 +92,5 @@ function renderList() {
 
 // ------------------- INIT -------------------
 renderList();
+
 
