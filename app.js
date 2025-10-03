@@ -41,7 +41,7 @@ const vehicleImages = {
   "WQT 225": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
   "MAM 7806": "https://carused.jp/images/elf/flatbody.jpg",
   "NBO 6586": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
-  "EMPTY": "https://pluspng.com/img-png/ferrari-png-ferrari-sergio-png-picture-2256.png"
+  "EMPTY": "https://pluspng.com/img-png/ferrari-png-ferrari-sergio-png-picture-2256.png",
 };
 
 const app = document.getElementById("app");
@@ -92,5 +92,6 @@ function renderList() {
 
 // ------------------- INIT -------------------
 renderList();
+
 
 
