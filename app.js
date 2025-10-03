@@ -31,7 +31,7 @@ const details = {
 
 const vehicleImages = {
   "NGX 4853": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
-  "NGX 4856": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mitsubishi_L300_Van.jpg",
+  "NGX 4856": "https://www.mitsubishi-motors.com.ph/content/dam/mitsubishi-motors-ph/images/site-images/cars/l300/2020/L300-FB_1080_FL.png",
   "NFZ 2848": "https://www.isuzu-gencars.com.ph/wp-content/uploads/2020/07/Isuzu-TRAVIZ-Utility-Van-222-scaled.jpg",
   "CBP 5511": "https://carused.jp/images/elf/flatbody.jpg",
   "CBP 1336": "https://carused.jp/images/elf/flatbody.jpg",
@@ -92,3 +92,4 @@ function renderList() {
 
 // ------------------- INIT -------------------
 renderList();
+
