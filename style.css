@@ -12,7 +12,7 @@ body {
 .header {
   position: fixed;
   top: 0; left: 0; right: 0;
-  background: linear-gradient(90deg, #03C03C, #66FF00);
+  background: linear-gradient(90deg, #228B22, #009E60);
   color: white;
   display: flex;
   justify-content: space-between;
@@ -103,3 +103,4 @@ body {
   position: fixed;
   bottom: 0; left: 0; right: 0;
 }
+
